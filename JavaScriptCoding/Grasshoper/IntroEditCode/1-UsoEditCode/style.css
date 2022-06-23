@@ -1,0 +1,21 @@
+/*Definição de cores para fundo/body (azul) e texto/h1 (white)*/
+body{
+    background-color: rgb(0, 50, 75);
+}
+
+h1 {
+    color: white;
+}
+
+/* Utilizando id para dar a uma tag específica ao seu próprio conjunto de propriedades e valores CSS. */
+#r {
+    color: rgb(255, 0, 0);
+}
+
+#g {
+    color: rgb(0, 255, 0);
+}
+
+#b {
+    color: rgb(0, 0, 255);
+}
